@@ -87,7 +87,9 @@ const Layout = ({ children }) => (
                       <li>
                         <a
                           className={"links__special"}
-                          href={"https://www.producthunt.com/posts/teammaker"}
+                          href={
+                            "https://www.producthunt.com/posts/teammaker-v2/"
+                          }
                           target={"_blank"}
                           title={
                             "We look forward to receiving your great feedback on Product Hunt!"
